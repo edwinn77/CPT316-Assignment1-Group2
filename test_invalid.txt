@@ -1,0 +1,7 @@
+x= 5; #invalid end of line
+y= 50  # missing EOL
+if(y>40){
+    display(y);
+} else{
+    display(x); 
+}

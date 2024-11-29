@@ -1,0 +1,7 @@
+1x= 5, #Variable cannot start with number
+y= 50  # missing EOL
+if(y>40){
+    display(y);
+} else{
+    display(x); 
+}

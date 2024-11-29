@@ -1,0 +1,7 @@
+x = 5,
+y = x * 10,
+if (y > 40) {
+    display(y),
+} else {
+    display(x),
+}
